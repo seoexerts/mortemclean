@@ -1,0 +1,232 @@
+{
+  "slug": "barcelona",
+  "nombre": "Barcelona",
+  "provincia": "Barcelona",
+  "lat": 41.442101077373586,
+  "lng": 2.1821168902433,
+  "telefono": "+34 633 75 96 49",
+  "email": "seoexpertsslu@gmail.com",
+  "direccion": "Carrer dels Arítjols, 12, Nou Barris",
+  "codigoPostal": "08016 ",
+  "zonas": [
+    "Les Corts",
+    "Sarrià-Sant Gervasi",
+    "Eixample",
+    "Gràcia",
+    "Horta-Guinardó",
+    "Nou Barris",
+    "Sant Martí",
+    "Sants-Montjuïc",
+    "Ciutat Vella",
+    "Poblenou",
+    "La Mina",
+    "Trinitat Nova",
+    "Collblanc",
+    "Bon Pastor",
+    "Vilanova i la Geltrú"
+  ],
+  "serviciosActivos": [
+    "retirada-de-enseres-y-materiales-afectados",
+    "limpieza-y-descontaminacion-de-la-zona-afectada",
+    "desinfeccion-y-sanitizacion-profesional",
+    "eliminacion-de-olores-persistentes",
+    "gestion-de-residuos-biologicos-y-materiales-contaminados",
+    "limpieza-integral-y-recuperacion-de-la-vivienda"
+  ],
+  "seoIntro": "Limpiezas por incendio en Barcelona: Sootix es tu solución experta para restaurar hogares y negocios afectados por fuego. Barcelona, la vibrante capital de la comarca del Barcelonés y con una población aproximada de 5.6 millones de habitantes en la provincia de Barcelona, requiere servicios especializados como el nuestro para eliminar humo, hollín y olores persistentes tras un incendio. Ofrecemos limpieza post-incendio integral, desinfección profesional y restauración de daños causados por el fuego, garantizando un ambiente seguro y saludable.",
+  "metaDesc": "Limpiezas por Incendio en Barcelona — Recupera tu hogar/negocio rápido y eficazmente con Sootix. Presupuesto gratuito en Barcelona!",
+  "ciudadesSecundarias": [
+    {
+      "nombre": "Barcelona",
+      "slug": "barcelona",
+      "seoIntro": "Limpiezas por fallecimiento en Barcelona. Ofrecemos servicios integrales de limpieza tras defunción en Barcelona, {provincia}, una ciudad con más de 1.6 millones de habitantes y barrios como Gràcia o Sarrià-Sant Gervasi. Contamos con amplia experiencia en la comarca del Barcelonés.",
+      "metaDesc": "Limpiezas por fallecimiento en Barcelona — Servicio integral y discreto | MortemClean",
+      "zonas": [
+        "Ciutat Vella",
+        "Eixample",
+        "Gràcia",
+        "Horta-Guinardó",
+        "Les Corts",
+        "Nou Barris",
+        "Sant Martí",
+        "Sarrià-Sant Gervasi"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "L'Hospitalet de Llobregat",
+      "slug": "lhospitalet-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en L'Hospitalet de Llobregat. Somos especialistas en limpieza post mortem en L'Hospitalet, {provincia}, una ciudad con más de 250.000 habitantes y situada en la comarca del Baix Llobregat. Garantizamos un servicio respetuoso y profesional.",
+      "metaDesc": "Limpiezas por fallecimiento en L'Hospitalet — Expertos en limpieza tras defunción | MortemClean",
+      "zonas": [
+        "Collblanc",
+        "La Torrassa",
+        "Bellvitge",
+        "San Josep",
+        "Les Planetes",
+        "Vilba Granada",
+        "Ciutat Meridiana",
+        "Pubilla Cases"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Badalona",
+      "slug": "badalona",
+      "seoIntro": "Limpiezas por fallecimiento en Badalona. En MortemClean llevamos a cabo limpiezas tras defunción en Badalona, {provincia}, una ciudad con más de 240.000 habitantes y ubicada en la comarca del Vallès Oriental.  Nuestro equipo ofrece soluciones rápidas y eficientes.",
+      "metaDesc": "Limpiezas por fallecimiento en Badalona — Soluciones rápidas y profesionales | MortemClean",
+      "zonas": [
+        "Centre",
+        "Collègic",
+        "Fondo",
+        "Sant Pere Màrtir",
+        "Les Roures",
+        "Montigalà",
+        "El Palau",
+        "Vallblanquers"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Sant Adrià de Besòs",
+      "slug": "sant-adria-de-besos",
+      "seoIntro": "Limpiezas por fallecimiento en Sant Adrià de Besòs.  Servicios profesionales de limpieza después de defunción en Sant Adrià de Besòs, {provincia}, una ciudad con más de 85.000 habitantes situada en la comarca del Barcelonés. Ofrecemos un trato discreto y personalizado.",
+      "metaDesc": "Limpiezas por fallecimiento en Sant Adrià — Trato discreto y profesional | MortemClean",
+      "zonas": [
+        "La Mina",
+        "Via Augusta",
+        "Fondo",
+        "Maiol",
+        "Verneda-Sant Andreu",
+        "Can Padró",
+        "Les Corts",
+        "Serralles"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Esplugues de Llobregat",
+      "slug": "esplugues-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en Esplugues de Llobregat.  MortemClean proporciona servicios de limpieza tras defunción en Esplugues de Llobregat, {provincia}, una ciudad con más de 95.000 habitantes y parte de la comarca del Baix Llobregat.  Contamos con personal cualificado para cada situación.",
+      "metaDesc": "Limpiezas por fallecimiento en Esplugues — Personal cualificado y discreto | MortemClean",
+      "zonas": [
+        "Centre",
+        "Font Bastera",
+        "Can Petit",
+        "Collblanc",
+        "Les Planes",
+        "Montanya",
+        "Riera de la Font",
+        "Sant Joan"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Cornellà de Llobregat",
+      "slug": "cornella-de-llobregat",
+      "seoIntro": "Limpiezas por fallecimiento en Cornellà de Llobregat.  Ofrecemos un servicio integral de limpieza después del fallecimiento en Cornellà de Llobregat, {provincia}, una ciudad con más de 85.000 habitantes y ubicada en la comarca del Baix Llobregat. Nos encargamos de todo el proceso con profesionalidad.",
+      "metaDesc": "Limpiezas por fallecimiento en Cornellà — Servicio integral y profesional | MortemClean",
+      "zonas": [
+        "Centre",
+        "Sant Ildefons",
+        "Salbador",
+        "Singuerlín",
+        "Les Planes",
+        "Barberà",
+        "Vallirana",
+        "Riera"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Mollet del Vallès",
+      "slug": "mollet-del-valles",
+      "seoIntro": "Limpiezas por fallecimiento en Mollet del Vallès.  MortemClean ofrece limpieza tras defunción con el máximo respeto y profesionalidad en Mollet del Vallès, {provincia}, una ciudad de más de 65.000 habitantes perteneciente a la comarca del Vallès Oriental. Nos adaptamos a sus necesidades.",
+      "metaDesc": "Limpiezas por fallecimiento en Mollet — Respeto y profesionalidad garantizada | MortemClean",
+      "zonas": [
+        "Centre",
+        "Plaça de l'Església",
+        "Can Deu",
+        "La Borda",
+        "Les Valls",
+        "El Turó",
+        "Sant Jordi",
+        "Montserrat"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    },
+    {
+      "nombre": "Santa Coloma de Gramenet",
+      "slug": "santa-coloma-de-gramenet",
+      "seoIntro": "Limpiezas por fallecimiento en Santa Coloma de Gramenet.  Servicios especializados de limpieza post mortem en Santa Coloma de Gramenet, {provincia}, una ciudad con más de 120.000 habitantes y situada en la comarca del Vallès Occidental. Nuestro objetivo es ofrecerte tranquilidad en momentos difíciles.",
+      "metaDesc": "Limpiezas por fallecimiento en Santa Coloma — Tranquilidad y profesionalidad | MortemClean",
+      "zonas": [
+        "Centre",
+        "La Borda-Vilaprius",
+        "Fondo",
+        "Grimàucia",
+        "Can Bacardí",
+        "Les Contentes",
+        "Pla de les Acàcies",
+        "Torre Bonadell"
+      ],
+      "serviciosActivos": [
+        "retirada-de-enseres-y-materiales-afectados",
+        "limpieza-y-descontaminacion-de-la-zona-afectada",
+        "desinfeccion-y-sanitizacion-profesional",
+        "eliminacion-de-olores-persistentes",
+        "gestion-de-residuos-biologicos-y-materiales-contaminados",
+        "limpieza-integral-y-recuperacion-de-la-vivienda"
+      ]
+    }
+  ]
+}
