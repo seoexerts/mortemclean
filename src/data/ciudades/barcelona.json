@@ -37,30 +37,6 @@
   "metaDesc": "Limpiezas por Incendio en Barcelona — Recupera tu hogar/negocio rápido y eficazmente con Sootix. Presupuesto gratuito en Barcelona!",
   "ciudadesSecundarias": [
     {
-      "nombre": "Barcelona",
-      "slug": "barcelona",
-      "seoIntro": "Limpiezas por fallecimiento en Barcelona. Ofrecemos servicios integrales de limpieza tras defunción en Barcelona, {provincia}, una ciudad con más de 1.6 millones de habitantes y barrios como Gràcia o Sarrià-Sant Gervasi. Contamos con amplia experiencia en la comarca del Barcelonés.",
-      "metaDesc": "Limpiezas por fallecimiento en Barcelona — Servicio integral y discreto | MortemClean",
-      "zonas": [
-        "Ciutat Vella",
-        "Eixample",
-        "Gràcia",
-        "Horta-Guinardó",
-        "Les Corts",
-        "Nou Barris",
-        "Sant Martí",
-        "Sarrià-Sant Gervasi"
-      ],
-      "serviciosActivos": [
-        "retirada-de-enseres-y-materiales-afectados",
-        "limpieza-y-descontaminacion-de-la-zona-afectada",
-        "desinfeccion-y-sanitizacion-profesional",
-        "eliminacion-de-olores-persistentes",
-        "gestion-de-residuos-biologicos-y-materiales-contaminados",
-        "limpieza-integral-y-recuperacion-de-la-vivienda"
-      ]
-    },
-    {
       "nombre": "L'Hospitalet de Llobregat",
       "slug": "lhospitalet-de-llobregat",
       "seoIntro": "Limpiezas por fallecimiento en L'Hospitalet de Llobregat. Somos especialistas en limpieza post mortem en L'Hospitalet, {provincia}, una ciudad con más de 250.000 habitantes y situada en la comarca del Baix Llobregat. Garantizamos un servicio respetuoso y profesional.",
